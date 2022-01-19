@@ -15,9 +15,9 @@ function App() {
             <div className='col-md-5'>
                 <Registration></Registration>
             </div>
-            <div className='col-md-7'>
+            {/* <div className='col-md-7'>
                 <img src={logo_am} className='img-fluid w-100'></img>
-            </div>
+            </div> */}
         </div>
       </contextData.Provider>
   );

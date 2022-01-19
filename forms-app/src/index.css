@@ -41,3 +41,11 @@ code {
   align-items: center;
   height: 100vh;
 }
+
+.array-styles{
+  width: 300px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-top: 25px;
+  margin-right: 10px;
+}
