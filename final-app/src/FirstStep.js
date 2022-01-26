@@ -116,7 +116,7 @@ function FirstStep(){
 
                                             <br></br><br></br>
                                             {/* onClick={()=>setCurrentStep(2)} */}
-                                        <button disabled={!formik.isValid} type="submit">Next</button>
+                                        <button disabled={!formik.isValid} type="submit" className="btn btn-primary btn-sm">Next</button>
                                     </Form>
                                 )
                             }
